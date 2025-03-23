@@ -45,8 +45,7 @@
   <a href="https://www.instagram.com/joao_alvees05/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" height="28" alt="instagram logo"  />
   </a>
-  <a href="joaovitoralves0507@hotmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="40" height="28" alt="microsoft-outlook logo"  />
+  
   </a>
 </div>
 
