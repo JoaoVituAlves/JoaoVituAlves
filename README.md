@@ -1,4 +1,4 @@
-<h1 align="left">👋 Olá, me chamo João Vitor!</h1>
+<h1 align="left">👋 Olá, eu sou o João Vitor!</h1>
 
 Sou um desenvolvedor fullstack apaixonado por transformar ideias em soluções web funcionais e modernas. Trabalho com foco em **JavaScript, Node.js, React** e banco de dados **MySQL**, construindo sistemas completos do frontend ao backend.
 
@@ -11,11 +11,11 @@ Sou um desenvolvedor fullstack apaixonado por transformar ideias em soluções w
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
 </div>
 
 ---
@@ -41,5 +41,4 @@ Sou um desenvolvedor fullstack apaixonado por transformar ideias em soluções w
 </div>
 
 ---
-
 
